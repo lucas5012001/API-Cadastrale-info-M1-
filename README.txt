@@ -1,3 +1,6 @@
+Création d'une API en Python permettant à un utilisateur de trouver les communes adjacentes à une commune donnée, de trouver les permis de construire sur ces communes et de voir si un même permis de construire a été déposé dans deux communes différentes. Ce projet a nécessité la création de plusieurs couches (Couche DAO, Business Layer, Control Layer, Client Layer, Service Layer) en utilisant la programmation orientée objet. Nous avons connecté le programme à une base de données SQL par l'intermédiaire de la DAO. L'application devait également télécharger des données sur le site officiel du cadastre de manière automatisée en passant par la couche Client. Enfin, elle devait communiquer avec l'utilisateur par l'intermédiaire de l'API à travers la couche Control. Les autres couches étaient dédiées aux calculs de coordonnées et autres éléments mathématiques ou à la transformation de données brutes.
+
+
 ===================================================================================================================================
                                                              FRANCAIS
 ===================================================================================================================================
